@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="save_bt">현재 페이지 저장하기</string>
+    <string name="call_last_bt">저장한 페이지 불러오기</string>
+</resources>
